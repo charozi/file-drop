@@ -17,7 +17,7 @@ If you get this output:
   *'python' is not recognized as an internal or external command,
   operable program or batch file.*
 
-You need to install python thru the [https://python.org/](official site) or thru the MS Store.
+You need to install python thru the [official site](https://python.org/) or thru the MS Store.
 
 Then if you have installed python you can put the UploadServerWindows.py in your user directory.
 It just makes it easier to run. Your user directory should look like this: C:/Users/yourwindowsname/
